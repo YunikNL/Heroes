@@ -11,7 +11,7 @@ h1{
   color: #000000;
 }
 body{
-  background-color: bisque;
+  background-color: #ffcc99;
 }
 table{
   margin: auto;
@@ -26,6 +26,10 @@ td{
   text-align: center;
   border: 5px solid;
   font-size: xx-large;
+  margin: auto;
+}
+tr{
+  margin: auto;
 }
 #a1{background-color: #66ff00;}
 #a2{background-color: #ff6060;}
